@@ -11,3 +11,10 @@ Industry usage library  https://spacy.io/api
 
 spacy for the  SANSKRIT   
 https://github.com/explosion/spaCy/tree/master/spacy/lang/sa
+
+
+LSTM AND RNN  http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+
+
